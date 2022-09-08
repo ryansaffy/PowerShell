@@ -1,0 +1,1 @@
+$MyArray = @(“Person1”, “Person2”, “Person3”)
